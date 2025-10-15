@@ -12,7 +12,7 @@
 - **Databases:** working with SQLite and MySQL
 - **Bots & Automation:** developing and maintaining Telegram and Discord bots
 - **Scripting in game:** Lua scripts for SA-MP (MoonLoader & MonetLoader)
-- **Other skills (basic):** C++, C#, HTML/CSS, Figma (used mostly for university labs)
+- **Other skills (basic):** C++, HTML/CSS, Figma (used mostly for university labs)
 
 ---
 
