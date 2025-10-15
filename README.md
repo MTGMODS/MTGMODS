@@ -1,5 +1,4 @@
-# 👋 Hello, I'm Bohdan
-🎂 20 years old  
+# 👋 Hello, I'm Bogdan, I'm 20 years old
 🏫 Student at **Chernivtsi National University (CHNU)**, Software Engineering (121)
 
 ---
@@ -12,7 +11,7 @@
 - **Infrastructure:** managing VPS (deployment, monitoring, basic server administration)
 - **Databases:** working with SQLite and MySQL
 - **Bots & Automation:** developing and maintaining Telegram and Discord bots
-- **Scripting:** Lua scripts for SA-MP (MoonLoader & MonetLoader)
+- **Scripting in game:** Lua scripts for SA-MP (MoonLoader & MonetLoader)
 - **Other skills (basic):** C++, HTML/CSS, Figma (used mostly for university labs)
 
 ---
