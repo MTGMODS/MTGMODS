@@ -6,12 +6,13 @@
 
 ## 💻 Skills
 
-- **Programming Languages:** Python, Java  
-- **Mobile Apps (Android):** developing; decompiling and modifying existing apps using Smali
+- **Programming Languages:** Python, Java
+- **Mobile Apps (Android):** developing; decompiling and modifying existing apps with Smali
 - **Backend & Services:** developing simple APIs and backend services  
 - **Infrastructure:** managing VPS (deployment, monitoring, basic server administration)
 - **Databases:** working with SQLite and MySQL
 - **Bots & Automation:** developing and maintaining Telegram and Discord bots
+- **Scripting:** Lua scripts for SA-MP (MoonLoader & MonetLoader)
 - **Other skills (basic):** C++, HTML/CSS, Figma (used mostly for university labs)
 
 ---
