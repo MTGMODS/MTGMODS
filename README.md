@@ -19,7 +19,7 @@
 ## 📜 I have completed some additional courses to expand my knowledge
 
 **Marketing of IT Products** — *Strum Education*  
-[![View Certificate](https://img.shields.io/badge/View%20Certificate-PDF-blue?logo=adobeacrobatreader&style=for-the-badge)](https://github.com/MTGMODS/MTGMODS/blob/main/IT%20product%20marketing.pdf)
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-PDF-blue?logo=adobeacrobatreader&style=for-the-badge)](https://github.com/MTGMODS/MTGMODS/blob/main/Marketing%20of%20IT%20Products.pdf)
 
 **Creation and Development of IT Products** — *Strum Education*  
 [![View Certificate](https://img.shields.io/badge/View%20Certificate-PDF-blue?logo=adobeacrobatreader&style=for-the-badge)](https://github.com/MTGMODS/MTGMODS/blob/main/Creation%20and%20Development%20of%20IT%20Products.pdf)
