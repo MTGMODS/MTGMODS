@@ -7,7 +7,7 @@
 ## 💻 Skills
 
 - **Programming Languages:** Python, Java  
-- **Mobile Apps:** creating apps; basic knowledge of decompiling and modifying Android apps (Smali)  
+- **Mobile Apps:** creating apps; basic ability to decompile and modify Android apps using Smali
 - **Backend & Services:** developing simple APIs and backend services  
 - **Infrastructure:** managing VPS (deployment, monitoring, basic server administration)  
 - **Bots & Automation:** developing and maintaining Telegram and Discord bots
