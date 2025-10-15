@@ -1,13 +1,16 @@
-# 👋 Hello, my name is Bohdan
-🎂 I'm 20 years old
-🏫 Student at **Chernivtsi National University (CHNU)**, specializing in **Software Engineering (121)**. 
+# 👋 Hello, I'm Bohdan
+🎂 20 years old  
+🏫 Student at **Chernivtsi National University (CHNU)**, Software Engineering (121)
 
 ---
 
 ## 💻 Skills
 
-- **Programming Languages:** Python, Java, JavaScript, HTML/CSS
-- **Mobile App Analysis:** basic knowledge of decompiling and modified Android apps (Smali)
+- **Programming Languages:** Python, Java  
+- **Mobile Apps:** creating apps; basic knowledge of decompiling and modifying Android apps (Smali)  
+- **Backend & Services:** developing simple APIs and backend services  
+- **Infrastructure:** managing VPS (deployment, monitoring, basic server administration)  
+- **Bots & Automation:** developing and maintaining Telegram and Discord bots
 
 ---
 
