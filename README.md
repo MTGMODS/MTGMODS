@@ -1,4 +1,4 @@
-# 🏫 Software Engineering student at Chernivtsi National University (CHNU)
+🏫 Software Engineering student at Chernivtsi National University (CHNU)
 
 ---
 
