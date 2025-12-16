@@ -18,6 +18,6 @@
 
 ## 📜 I have completed some additional courses to expand my knowledge
 
-- **[CCNA: Introduction to Networks](https://github.com/MTGMODS/MTGMODS/blob/main/CCNA-_Introduction_to_Networks.pdf)** — *Cisco Networking Academy (CHNU)*
-- **[Marketing of IT Products](https://github.com/MTGMODS/MTGMODS/blob/main/Marketing%20of%20IT%20Products.pdf)** — *Strum Education*
+- **[CCNA: Introduction to Networks](https://github.com/MTGMODS/MTGMODS/blob/main/CCNA-_Introduction_to_Networks.pdf)** — *Cisco Networking Academy*
+- **[Marketing for IT Products](https://github.com/MTGMODS/MTGMODS/blob/main/Marketing%20of%20IT%20Products.pdf)** — *Strum Education*
 - **[Creation and Development of IT Products](https://github.com/MTGMODS/MTGMODS/blob/main/Creation%20and%20Development%20of%20IT%20Products.pdf)** — *Strum Education*
