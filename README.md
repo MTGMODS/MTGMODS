@@ -11,7 +11,7 @@
 
 ---
 
-## 📜 I have completed some additional courses to expand my knowledge
+## 📜 Certificates
 
 - **[CCNA: Introduction to Networks](https://github.com/MTGMODS/MTGMODS/blob/main/CCNA-_Introduction_to_Networks.pdf)** — *Cisco Networking Academy*
 - **[Marketing for IT Products](https://github.com/MTGMODS/MTGMODS/blob/main/Marketing%20of%20IT%20Products.pdf)** — *Strum Education*
