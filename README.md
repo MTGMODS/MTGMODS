@@ -18,6 +18,9 @@
 
 ## 📜 I have completed some additional courses to expand my knowledge
 
+**CCNA: Introduction to Networks** — *Cisco Networking Academy (CHNU)*
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-PDF-blue?logo=adobeacrobatreader&style=for-the-badge)](https://github.com/MTGMODS/MTGMODS/blob/main/CCNA-_Introduction_to_Networks.pdf)
+
 **Marketing of IT Products** — *Strum Education*  
 [![View Certificate](https://img.shields.io/badge/View%20Certificate-PDF-blue?logo=adobeacrobatreader&style=for-the-badge)](https://github.com/MTGMODS/MTGMODS/blob/main/Marketing%20of%20IT%20Products.pdf)
 
