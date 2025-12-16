@@ -1,5 +1,4 @@
-# 👋 Hello, I'm Bogdan, I'm 20 years old
-🏫 Software Engineering student at Chernivtsi National University (CHNU)
+# 🏫 Software Engineering student at Chernivtsi National University (CHNU)
 
 ---
 
