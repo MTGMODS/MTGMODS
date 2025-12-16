@@ -9,10 +9,10 @@
 - **Mobile Apps (Android):** developing; decompiling and modifying existing apps with Smali
 - **Backend & Services:** developing simple APIs and backend services  
 - **Infrastructure:** managing VPS (deployment, monitoring, basic server administration)
-- **Databases:** working with SQLite and MySQL
+- **Databases:** working with MySQL, SQLite, Google Firebase (Realtime Database)
 - **Bots:** developing and maintaining Telegram and Discord bots
 - **Scripting in game:** Lua scripts for SA-MP (MoonLoader & MonetLoader)
-- **Other skills (basic level):** C++, HTML/CSS, Figma
+- **Other skills (basic level):** C++, HTML/CSS, Figma, Vue
 
 ---
 
