@@ -1,7 +1,3 @@
-## 🏫 Software Engineering student at Chernivtsi National University (CHNU)
-
----
-
 ## 💻 Skills
 
 - **Programming Languages:** Python, Java
