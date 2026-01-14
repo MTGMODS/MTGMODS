@@ -1,13 +1,11 @@
 ## 💻 Skills
 
-- **Programming Languages:** Python, Java
-- **Mobile Apps (Android):** development and reverse engineering with Smali
-- **Backend & Services:** simple APIs and backend services  
-- **Infrastructure:** VPS management (deployment, monitoring, basic administration)
-- **Databases:** MySQL, SQLite, Google Firebase (Realtime DB)
-- **Bots:** developing and maintaining Telegram and Discord bots
+- **Backend:** Python (Telegram/Discord bots, API services)
+- **Android:** Java apps, APK modification using Smali
+- **Databases:** MySQL, SQLite, Google Firebase (RTDB)
+- **Infrastructure:** VPS deployment, monitoring, basic Linux administration
 - **Game Scripting:** Lua for SA-MP (MoonLoader & MonetLoader)
-- **Other (basic):** C++, HTML/CSS, Vue, Figma 
+- **Other (familiar):** C++, HTML/CSS, Figma
 
 ---
 
