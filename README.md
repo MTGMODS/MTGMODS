@@ -1,6 +1,6 @@
 ## 💻 Skills
 
-- **Backend:** Python (Telegram/Discord bots, API services)
+- **Backend:** Python (Telegram/Discord bots, REST API-s services)
 - **Android:** Java apps, APK modification using Smali
 - **Databases:** MySQL, SQLite, Google Firebase (RTDB)
 - **Infrastructure:** VPS deployment, monitoring, basic Linux administration
