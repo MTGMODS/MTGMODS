@@ -1,10 +1,10 @@
 ## 💻 Skills
 
-- **Backend:** Python (Telegram & Discord bots, API services, subscription-based SaaS)
-- **Android:** Java (native apps), APK modification (.smali), 
+- **Backend:** Python (subscription-based SaaS, API services, Telegram & Discord bots)
+- **Android:** Java/Kotlin (native apps), APK modification (.smali), 
 - **Databases:** MySQL, SQLite, Google Firebase (RTDB)
 - **Infrastructure:** VPS deployment, monitoring, basic Linux administration
-- **Game Scripting:** Lua for SA-MP (MoonLoader & MonetLoader)
+- **Game Modding:** Lua scripting (SA-MP), Wwise SoundBank editing, custom game modifications
 - **Other (familiar):** C++, HTML/CSS, Figma
 
 ---
