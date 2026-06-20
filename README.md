@@ -6,7 +6,7 @@ A subscription-based product ecosystem built and monetized from scratch.
   ↳ Python, FastAPI, SQLAlchemy, JWT. Legacy SQLite monolith (v0.0.0) is in production; microservices is in development.
 - **Client Application:** [arizona-helper](https://github.com/MTGMODS/arizona-helper)
   
-  ↳ Lua, ImGui. Cross-platform freemium helper integrated with the backend platform for analytics and VIP validation.
+  ↳ Lua, ImGui. Cross-platform freemium helper integrated with the backend platform for analytics and license validation.
 
 - **Community:** [Discord server](https://discord.gg/qBPEYjfNhv) (17k+ members) and [Telegram channel](https://t.me/mtgmods) (13k+ subscribers)
 ---
