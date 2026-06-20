@@ -3,10 +3,10 @@ A subscription-based product ecosystem built and monetized from scratch.
 
 - **Backend Platform:** [license-management-platform](https://github.com/MTGMODS/license-management-platform)
   
-  ↳ *Stack:* Python, FastAPI/Flask, PostgreSQL, JWT. Legacy monolith (v0.0.0) is in production; microservices is in active development.
+  ↳ Python, FastAPI, SQLAlchemy (PostgreSQL), JWT. Legacy SQLite monolith (v0.0.0) is in production; microservices is in development.
 - **Client Application:** [arizona-helper](https://github.com/MTGMODS/arizona-helper)
   
-  ↳ Lua based (with ImGui UI) freemium client integrated with the backend platform.
+  ↳ Lua, ImGui. Freemium script utilizing the backend platform for usage analytics and VIP key validation
 
 - **Community:** [Discord server](https://discord.gg/qBPEYjfNhv) (17k+ members) and [Telegram channel](https://t.me/mtgmods) (13k+ subscribers)
 ---
