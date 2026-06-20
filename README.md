@@ -1,5 +1,5 @@
 ## 🚀 Featured Product: Micro SaaS Ecosystem
-A subscription-based product ecosystem built and monetized from scratch (30k+ community members across Telegram and Discord).
+A subscription-based product ecosystem built and monetized from scratch.
 
 - **Backend Platform:** [license-management-platform](https://github.com/MTGMODS/license-management-platform)
   
@@ -8,17 +8,16 @@ A subscription-based product ecosystem built and monetized from scratch (30k+ co
   
   ↳ Lua based (with ImGui UI) freemium client integrated with the backend platform.
 
-- **Community:** [Discord server](https://discord.gg/qBPEYjfNhv) (17k+ members) and [Telegram channel](https://t.me/mtgmods) (13k+ subsribers)
-
+- **Community:** [Discord server](https://discord.gg/qBPEYjfNhv) (17k+ members) and [Telegram channel](https://t.me/mtgmods) (13k+ subscribers)
 ---
 
 ## 💻 Skills & Projects
 
-- **Backend:** Python, REST APIs. [Flask coursework WebApp with CRUD & Auth](https://github.com/MTGMODS/telephone-directory-system).
-- **Android Development:** [Kotlin MVVM app with Jetpack Compose](https://github.com/MTGMODS/android-notes-app), [Java WebView (5k+ Play Market installs)](https://github.com/MTGMODS/arzrp_acs_app), [CI/CD automated APK builder](https://github.com/MTGMODS/arz_monetloader), [Java automated mod installation for WoT Blitz](https://github.com/MTGMODS/wotb-mods-manager).
+- **Backend:** Python REST APIs (FastAPI/Flask). [Coursework Flask WebApp with CRUD & Auth](https://github.com/MTGMODS/telephone-directory-system).
+- **Android:** [Kotlin MVVM app with Jetpack Compose](https://github.com/MTGMODS/android-notes-app), [Java WebView (5k+ Play Market installs)](https://github.com/MTGMODS/arzrp_acs_app), [automated APK builder](https://github.com/MTGMODS/arz_monetloader), [Java mod manager for WoT Blitz](https://github.com/MTGMODS/wotb-mods-manager).
 - **Databases:** PostgreSQL, SQLite, MySQL, Firebase RTDB. [Database Engineer role in FinTech simulation](https://github.com/Darmohrai/arcabank).
-- **Infrastructure:** Linux, VPS deployment, Nginx, [GitHub Actions CI/CD](https://github.com/MTGMODS/arz_monetloader/blob/main/.github/workflows/build.yml).
-- **Other (familiar):** [C++ OOP Coursework](https://github.com/MTGMODS/pawnshop-dbms), HTML/CSS, JS, [Figma UI Reference](https://www.figma.com/design/1FHj5ZyDqDpy1XfODKg8Hc/Task-UX-UI---Copy-BLANCA-site?node-id=0-1&p=f&t=xo3PjQIIWDgo8B1R-0).
+- **Infrastructure:** Linux, VPS deployment, Nginx, Docker, [GitHub Actions CI/CD](https://github.com/MTGMODS/arz_monetloader/blob/main/.github/workflows/build.yml).
+- **Additional Technologies:** [C++ OOP DBMS](https://github.com/MTGMODS/pawnshop-dbms), HTML/CSS, JS, [Figma UI Reference](https://www.figma.com/design/1FHj5ZyDqDpy1XfODKg8Hc/Task-UX-UI---Copy-BLANCA-site?node-id=0-1&p=f&t=xo3PjQIIWDgo8B1R-0).
 
 ---
 
