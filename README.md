@@ -3,7 +3,7 @@ A subscription-based product ecosystem built and monetized from scratch.
 
 - **Backend Platform:** [license-management-platform](https://github.com/MTGMODS/license-management-platform)
   
-  ↳ Python, FastAPI, SQLAlchemy (PostgreSQL), JWT. Legacy SQLite monolith (v0.0.0) is in production; microservices is in development.
+  ↳ Python, FastAPI, SQLAlchemy, JWT. Legacy SQLite monolith (v0.0.0) is in production; microservices is in development.
 - **Client Application:** [arizona-helper](https://github.com/MTGMODS/arizona-helper)
   
   ↳ Lua, ImGui. Freemium script utilizing the backend platform for usage analytics and VIP key validation
@@ -14,10 +14,10 @@ A subscription-based product ecosystem built and monetized from scratch.
 ## 💻 Skills & Projects
 
 - **Backend:** Python REST APIs (FastAPI/Flask). [Coursework Flask WebApp with CRUD & Auth](https://github.com/MTGMODS/telephone-directory-system).
-- **Android:** [Kotlin MVVM app with Jetpack Compose](https://github.com/MTGMODS/android-notes-app), [Java WebView (5k+ Play Market installs)](https://github.com/MTGMODS/arzrp_acs_app), [automated APK builder](https://github.com/MTGMODS/arz_monetloader), [Java mod manager for WoT Blitz](https://github.com/MTGMODS/wotb-mods-manager).
+- **Android:** Java/Kotlin [Jetpack Compose MVVM app](https://github.com/MTGMODS/android-notes-app), [WebView app (5k+ installs)](https://github.com/MTGMODS/arzrp_acs_app), [CI/CD APK patcher](https://github.com/MTGMODS/arz_monetloader), [mod manager](https://github.com/MTGMODS/wotb-mods-manager).
 - **Databases:** PostgreSQL, SQLite, MySQL, Firebase RTDB. [Database Engineer role in FinTech simulation](https://github.com/Darmohrai/arcabank).
-- **Infrastructure:** Linux, VPS deployment, Nginx, Docker, [GitHub Actions CI/CD](https://github.com/MTGMODS/arz_monetloader/blob/main/.github/workflows/build.yml).
-- **Additional Technologies:** [C++ OOP DBMS](https://github.com/MTGMODS/pawnshop-dbms), HTML/CSS, JS, [Figma UI Reference](https://www.figma.com/design/1FHj5ZyDqDpy1XfODKg8Hc/Task-UX-UI---Copy-BLANCA-site?node-id=0-1&p=f&t=xo3PjQIIWDgo8B1R-0).
+- **Infrastructure:** Linux, VPS deployment, Nginx, Docker, GitHub Actions CI/CD.
+- **Familiar With:** [C++ OOP DBMS](https://github.com/MTGMODS/pawnshop-dbms), HTML/CSS, JS, [Figma UI Reference](https://www.figma.com/design/1FHj5ZyDqDpy1XfODKg8Hc/Task-UX-UI---Copy-BLANCA-site?node-id=0-1&p=f&t=xo3PjQIIWDgo8B1R-0).
 
 ---
 
