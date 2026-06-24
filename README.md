@@ -22,8 +22,8 @@ A subscription-based product ecosystem built and monetized from scratch.
 ---
 
 ## 📜 Certificates
-
 - **[CCNA: Introduction to Networks](https://github.com/MTGMODS/MTGMODS/blob/main/CCNA-_Introduction_to_Networks.pdf)** — *Cisco Networking Academy*
+- **[CCNA: Switching, Routing, and Wireless Essentials](https://github.com/MTGMODS/MTGMODS/blob/main/CCNA-_Switching-_Routing-_and_Wireless_Essentials.pdf)** — *Cisco Networking Academy*
 - **[Fundamentals of Information Security](https://github.com/MTGMODS/MTGMODS/blob/main/Fundamentals%20of%20Information%20Security.pdf)** — *Prometheus (Zillya!)*
 - **[Digital Security (Personal Level)](https://github.com/MTGMODS/MTGMODS/blob/main/Digital%20Security%20(Personal%20Level).pdf)** — *Prometheus*
 - **[Marketing for IT Products](https://github.com/MTGMODS/MTGMODS/blob/main/Marketing%20of%20IT%20Products.pdf)** — *Strum Education*
