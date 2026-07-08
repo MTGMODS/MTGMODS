@@ -17,7 +17,7 @@ A subscription-based product ecosystem built and monetized from scratch.
 - **Android:** Java/Kotlin. [Jetpack Compose MVVM app](https://github.com/MTGMODS/android-notes-app), [WebView app (5k+ installs)](https://github.com/MTGMODS/arzrp_acs_app), [CI/CD APK patcher](https://github.com/MTGMODS/arz_monetloader), [mod manager](https://github.com/MTGMODS/wotb-mods-manager).
 - **Databases:** PostgreSQL, SQLite, MySQL, Firebase RTDB. [Database Engineer role in FinTech simulation](https://github.com/Darmohrai/arcabank).
 - **Infrastructure:** Linux, VPS deployment, Nginx, Docker, GitHub Actions CI/CD.
-- **Familiar With:** [C++ OOP DBMS](https://github.com/MTGMODS/pawnshop-dbms), HTML/CSS, JS, [Figma UI Reference](https://www.figma.com/design/1FHj5ZyDqDpy1XfODKg8Hc/Task-UX-UI---Copy-BLANCA-site?node-id=0-1&p=f&t=xo3PjQIIWDgo8B1R-0).
+- **Familiar With:** [C++ OOP DBMS](https://github.com/MTGMODS/pawnshop-dbms), HTML/CSS, [JS (game script)](https://github.com/MTGMODS/lua_scripts/blob/main/camhack/CamHack.js), [Figma UI Reference](https://www.figma.com/design/1FHj5ZyDqDpy1XfODKg8Hc/Task-UX-UI---Copy-BLANCA-site?node-id=0-1&p=f&t=xo3PjQIIWDgo8B1R-0).
 
 ---
 
