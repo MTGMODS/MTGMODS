@@ -3,7 +3,7 @@ A subscription-based product ecosystem built and monetized from scratch.
 
 - **Backend Platform:** [license-management-platform](https://github.com/MTGMODS/license-management-platform)
   
-  ↳ Python, FastAPI, SQLAlchemy, JWT. Legacy SQLite monolith (v0.0.0) is in production; microservices is in development.
+  ↳ Python, FastAPI, SQLAlchemy, JWT. Microservices.
 - **Client Application:** [arizona-helper](https://github.com/MTGMODS/arizona-helper)
   
   ↳ Lua, ImGui. Cross-platform freemium helper integrated with the backend platform for analytics and license validation.
