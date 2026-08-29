@@ -15,7 +15,7 @@ A subscription-based product ecosystem built and monetized from scratch.
 - **Community:** [Discord server](https://discord.gg/qBPEYjfNhv) (17k+ members) and [Telegram channel](https://t.me/mtgmods) (13k+ subscribers)
 ---
 
-## 💻 Skills & Practical Experience
+## 💻 Other skills & Practical Experience
 
 - **Backend:** Python REST APIs (FastAPI/Flask). [Flask MVC application with CRUD & role-based access](https://github.com/MTGMODS/telephone-directory-system).
 - **Android:** Java/Kotlin. [Jetpack Compose MVVM app](https://github.com/MTGMODS/android-notes-app), [WebView app (5k+ installs)](https://github.com/MTGMODS/arzrp_acs_app), [Mods Manager](https://github.com/MTGMODS/wotb-mods-manager).
