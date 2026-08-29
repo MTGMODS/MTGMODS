@@ -8,16 +8,20 @@ A subscription-based product ecosystem built and monetized from scratch.
   
   ↳ Lua, ImGui. Cross-platform freemium helper integrated with the backend platform for analytics and license validation.
 
+- **Mobile Client Integration:** [CI/CD APK patcher](https://github.com/MTGMODS/arz_monetloader)
+
+  ↳ Automated pipeline that patches the game's APK (MonetLoader), providing the necessary environment for the Client Application to run on mobile devices.
+
 - **Community:** [Discord server](https://discord.gg/qBPEYjfNhv) (17k+ members) and [Telegram channel](https://t.me/mtgmods) (13k+ subscribers)
 ---
 
 ## 💻 Skills & Practical Experience
 
 - **Backend:** Python REST APIs (FastAPI/Flask). [Flask MVC application with CRUD & role-based access](https://github.com/MTGMODS/telephone-directory-system).
-- **Android:** Java/Kotlin. [Jetpack Compose MVVM app](https://github.com/MTGMODS/android-notes-app), [WebView app (5k+ installs)](https://github.com/MTGMODS/arzrp_acs_app), [CI/CD APK patcher](https://github.com/MTGMODS/arz_monetloader), [mod manager](https://github.com/MTGMODS/wotb-mods-manager).
+- **Android:** Java/Kotlin. [Jetpack Compose MVVM app](https://github.com/MTGMODS/android-notes-app), [WebView app (5k+ installs)](https://github.com/MTGMODS/arzrp_acs_app), [Mods Manager](https://github.com/MTGMODS/wotb-mods-manager).
 - **Databases:** PostgreSQL, SQLite, MySQL, Firebase RTDB. [Database Engineer role in FinTech simulation](https://github.com/Darmohrai/arcabank).
-- **Infrastructure:** Linux, VPS deployment, Nginx, Docker, GitHub Actions CI/CD.
-- **Familiar With:** [C++ OOP DBMS](https://github.com/MTGMODS/pawnshop-dbms), HTML/CSS, [JS (game script)](https://github.com/MTGMODS/lua_scripts/blob/main/camhack/CamHack.js), [Figma UI Reference](https://www.figma.com/design/1FHj5ZyDqDpy1XfODKg8Hc/Task-UX-UI---Copy-BLANCA-site?node-id=0-1&p=f&t=xo3PjQIIWDgo8B1R-0).
+- **Infrastructure:** Linux, VPS deployment, Nginx, Docker, Redis, GitHub Actions CI/CD.
+- **Familiar With:** [C++ (OOP DBMS)](https://github.com/MTGMODS/pawnshop-dbms), [JS (game script)](https://github.com/MTGMODS/lua_scripts/blob/main/camhack/CamHack.js), [Figma UI Reference](https://www.figma.com/design/1FHj5ZyDqDpy1XfODKg8Hc/Task-UX-UI---Copy-BLANCA-site?node-id=0-1&p=f&t=xo3PjQIIWDgo8B1R-0).
 
 ---
 
