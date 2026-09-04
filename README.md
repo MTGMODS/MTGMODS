@@ -12,7 +12,7 @@ A subscription-based product ecosystem built and monetized from scratch.
 
   ↳ Automated pipeline that patches the game's APK (MonetLoader), providing the necessary environment for the Client Application to run on mobile devices.
 
-- **Community:** [Discord server](https://discord.gg/qBPEYjfNhv) (17k+ members) and [Telegram channel](https://t.me/mtgmods) (13k+ subscribers)
+- **Community:** [Discord server](https://discord.gg/qBPEYjfNhv) (15k+ members) and [Telegram channel](https://t.me/mtgmods) (10k+ subscribers)
 ---
 
 ## 💻 Other skills & Practical Experience
